@@ -1,0 +1,37 @@
+ART DIRECTION
+Premium original cinematic winter fairy tale: midnight indigo, teal aurora, champagne gold, warm windows, tactile materials, painterly feature animation. No known characters or recognizable existing park architecture. No text, logos or watermarks. Landscape images 1536×1024 generated with built-in ImageGen; optimized locally as WebP.
+
+BACKGROUND PROMPT SET
+palace: Original enchanted palace on snowy hill right; intricate slender towers, warm amber windows, sweeping aurora, winding path through alpine houses, giant luminous moon; left third dark for titles.
+lake: Frozen midnight lake; gilded empty oval mirror at shore, snowy birches, hanging lanterns, distant palace reflected on ice.
+snow: Charming alpine snow garden, timber chalet with glowing windows, fir trees and wooden bench; open courtyard center.
+bridge: Crystal footbridge over turquoise stream, curved golden rails, glass bells, iced firs, palace and aurora.
+garden: Victorian glass winter conservatory, golden brass arches, frosted glass and botanical plants at edges, central stone plinth.
+workshop: Cozy timber gift workshop, walnut furniture, glowing fireplace, velvet ribbons, jewel colored presents, tall night windows.
+observatory: Palace astronomy terrace, brass telescope, celestial instruments, constellations, teal aurora, snowy stone parapet.
+clock: Fairy tale clock tower, ornate antique brass mechanism, dark round central face, crystal pendulum and snowy arched windows.
+tree: Great decorated Christmas fir without a top star; palace courtyard, warm windows and illuminated bridges, aurora.
+hall: Palace letter room, grand fireplace, walnut desk and ivory parchment, velvet chair, lit fir and gilded arches.
+
+CHARACTER ATLAS PROMPT
+Transparent 3×2 production character atlas. Top: cream kitten in teal velvet scarf; russet fox cub in indigo star cape; turquoise baby dragon in ivory scarf. Bottom: kind Russian Ded Moroz in long crimson embroidered coat and tall fur hat; friendly undressed snowman; fictional curly haired child in ivory winter cape. Coherent premium 3D painterly design, tactile fur, cloth and snow, warm rim light. No text, no logos. Cropped into six cells; original transparency preserved.
+
+
+REVISION 2 — ILLUSTRATED OBJECTS
+Standalone and coordinated transparent artwork in assets/art: gilded pop-up storybook with miniature winter palace; carved ivory and gold mirror with a transparent opening, crystal crest, holly and icicles; complete Ded Moroz figure with hat, staff and boots; ornate sleigh with reindeer; jeweled star, snowflake and moon; velvet and knit snowman clothing; crystal bells; botanical bud and open flower in a porcelain bowl; water, sun and feather tools; six gift-box faces in three styles; gold telescope; luminous fox constellation; clock face and crystal gears; decorated tree; ivory certificate frame. Soft feature-animation rendering, round friendly forms, tactile fur, velvet, embroidery, warm gold and luminous glass. No text, logos or existing branded characters. Sprite sheets separated by connected alpha components and padded to preserve complete object silhouettes. Hero portraits and final character were generated separately to preserve heads. The default child portrait is fictional.
+
+FONTS
+Kurale — Eduardo Tunni, SIL OFL 1.1.
+Marck Script — Denis Masharov, SIL OFL 1.1.
+Golos Text — Alexandra Korolkova and Vitaly Kuzmin / Paratype, SIL OFL 1.1.
+Local WOFF2 files include Cyrillic, including Ё. License texts are included.
+
+AUDIO
+christmas-waltz.mp3 — instrumental orchestration of traditional public-domain Deck the Halls. No voices. Full attribution and sample licensing: music.txt.
+
+REVISION 3
+Kitten and dragon precise-object edits: preserve identity, pose, clothing and lighting, remove foreign atlas fragments under paws. Matching snowman base edited from the exact dressed source: same canvas/pose, remove seven accessories. Costume layers use the original dressed illustration in the same coordinate space with CSS masks. Three distinct gear silhouettes: gold sun, silver snowflake, sapphire moon. Separate transparent crystal footbridge with gold rails and lanterns; success brightness is implemented in CSS. All edits and new artwork made with built-in ImageGen.
+
+Revision 5: snowman-hat, snowman-scarf, snowman-left-mitten, snowman-right-mitten, snowman-carrot, snowman-vest, snowman-broom are seven independently generated transparent garment assets, fitted to snowman-base-v3.
+
+Revision 6: snowman-dressed is the registered illustration for the wardrobe rig; curved SVG contours preserve its original proportions. Existing snowman-vest supplies the hidden left vest panel during incomplete wardrobe states.
